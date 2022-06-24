@@ -1,0 +1,332 @@
+[
+    {
+        "id": 0,
+        "name": "Loteria Mexicana",
+        "phrase": "by Servin",
+        "image": "./src/imagenes/loteria.jpg"
+    },
+    {
+        "id": 1,
+        "name": "El gallo",
+        "phrase": "El que le cantó a San Pedro no le volverá a cantar",
+        "image": "./src/imagenes/gallo.png"
+    },
+    {
+        "id": 2,
+        "name": "El diablito",
+        "phrase": "Pórtate bien cuatito, si no te lleva el coloradito",
+        "image": "./src/imagenes/diablito.jpg"
+    },
+    {
+        "id": 3,
+        "name": "La dama",
+        "phrase": "Puliendo el paso, por toda la calle real",
+        "image": "./src/imagenes/dama.jpg"
+        
+    },
+    {
+        "id": 4,
+        "name": "El catrín",
+        "phrase": "Don Ferruco en la alameda, su bastón quería tirar",
+        "image": "./src/imagenes/catrin.jpg"
+    },
+    {
+        "id": 5,
+        "name": "El paraguas",
+        "phrase": " \"Para el sol y para el agua\"",
+        "image": "./src/imagenes/paraguas.jpg"
+    },
+    {
+        "id": 6,
+        "name": "La sirena",
+        "phrase": "Con los cantos de sirena, no te vayas a marear",
+        "image": "./src/imagenes/sirena.jpg"
+    },
+    {
+        "id": 7,
+        "name": "La escalera",
+        "phrase": "Súbeme paso a pasito, no quieras pegar brinquitos",
+        "image": "./src/imagenes/escalera.jpg"
+    },
+    {
+        "id": 8,
+        "name": "La botella",
+        "phrase": " \"La herramienta del borracho\"",
+        "image": "./src/imagenes/botella.jpg"
+    },
+    {
+        "id": 9,
+        "name": "El barril",
+        "phrase": "Tantobebió el albañil, que quedó como barril",
+        "image": "./src/imagenes/barril.jpg"
+    },
+    {
+        "id": 10,
+        "name": "El árbol",
+        "phrase": "El que a buen árbol se arrima, buena sombra le cobija",
+        "image": "./src/imagenes/arbol.jpg"
+    },
+    {
+        "id": 11,
+        "name": "El melón",
+        "phrase": "Me lo das o me lo quitas",
+        "image": "./src/imagenes/melon.jpg"
+    },
+    {
+        "id": 12,
+        "name": "El valiente",
+        "phrase": "Por qué le corres cobarde, trayendo tan buen puñal",
+        "image": "./src/imagenes/valiente.jpg"
+    },
+    {
+        "id": 13,
+        "name": "El gorrito",
+        "phrase": "Ponle su gorrito al nene, no se nos vaya a resfriar",
+        "image": "./src/imagenes/gorrito.jpg"
+    },
+    {
+        "id": 14,
+        "name": "La muerte",
+        "phrase": "La muerte tilica y flaca",
+        "image": "./src/imagenes/muerte.jpg"
+    },
+    {
+        "id": 15,
+        "name": "La pera",
+        "phrase": "El que espera, desespera",
+        "image": "./src/imagenes/pera.jpg"
+    },
+    {
+        "id": 16,
+        "name": "La bandera",
+        "phrase": "Verde blanco y colorado, la bandera del soldado",
+        "image": "./src/imagenes/bandera.jpg"
+    },
+    {
+        "id": 17,
+        "name": "El bandolón",
+        "phrase": "Tocando su bandolón, está el mariachi Simón",
+        "image": "./src/imagenes/bandolon.jpg"
+    },
+    {
+        "id": 18,
+        "name": "El violoncello",
+        "phrase": "Creciendo se fue hasta el cielo, y como no fue violín, tuvo que ser violoncello",
+        "image": "./src/imagenes/violoncello.jpg"
+    },
+    {
+        "id": 19,
+        "name": "La garza",
+        "phrase": "Al otro lado del río tengo mi banco de arena, donde se sienta mi chata pico de garza morena",
+        "image": "./src/imagenes/garza.jpg"
+    },
+    {
+        "id": 20,
+        "name": "El pájaro",
+        "phrase": "Tu me traes a puros brincos, como pájaro en la rama",
+        "image": "./src/imagenes/pajaro.jpg"
+    },
+    {
+        "id": 21,
+        "name": "La mano",
+        "phrase": "La mano de un criminal",
+        "image": "./src/imagenes/mano.jpg"
+    },
+    {
+        "id": 22,
+        "name": "La bota",
+        "phrase": "Una bota igual que la otra",
+        "image": "./src/imagenes/bota.jpg"
+    },
+    {
+        "id": 23,
+        "name": "La luna",
+        "phrase": "El farol de los enamorados",
+        "image": "./src/imagenes/luna.jpg"
+    },
+    {
+        "id": 24,
+        "name": "El cotorro",
+        "phrase": "Cotorro cotorro saca la pata, y empiézame a platicar",
+        "image": "./src/imagenes/cotorro.jpg"
+    },
+    {
+        "id": 25,
+        "name": "El borracho",
+        "phrase": "A qué borracho tan necio ya no lo puedo aguantar",
+        "image": "./src/imagenes/borracho.jpg"
+    },
+    {
+        "id": 26,
+        "name": "El negrito",
+        "phrase": "El que se comió el azúcar",
+        "image": "./src/imagenes/negrito.jpg"
+    },
+    {
+        "id": 27,
+        "name": "El corazón",
+        "phrase": "No me extrañes corazón, que regreso en el camión",
+        "image": "./src/imagenes/corazon.jpg"
+    },
+    {
+        "id": 28,
+        "name": "La sandía",
+        "phrase": "La barriga que Juan tenía, era empacho de sandía",
+        "image": "./src/imagenes/sandia.jpg"
+    },
+    {
+        "id": 29,
+        "name": "El tambor",
+        "phrase": "No te arrugues, cuero viejo, que te quiero pa' tambor",
+        "image": "./src/imagenes/tambor.jpg"
+    },
+    {
+        "id": 30,
+        "name": "El camarón",
+        "phrase": "Camarón que se duerme, se lo lleva la corriente",
+        "image": "./src/imagenes/camaron.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Las jaras",
+        "phrase": "Las jaras del indio Adán, donde pegan, dan",
+        "image": "./src/imagenes/jaras.jpg"
+    },
+    {
+        "id": 32,
+        "name": "El músico",
+        "phrase": "El músico trompas de hule, ya no me quiere tocar",
+        "image": "./src/imagenes/musico.jpg"
+    },
+    {
+        "id": 33,
+        "name": "La araña",
+        "phrase": "Atarántamela a palos, no me la dejes llegar",
+        "image": "./src/imagenes/araña.jpg"
+    },
+    {
+        "id": 34,
+        "name": "El soldado",
+        "phrase": "Uno, dos y tres, el soldado p'al cuartel",
+        "image": "./src/imagenes/soldado.jpg"
+    },
+    {
+        "id": 35,
+        "name": "La estrella",
+        "phrase": "La guía de los marineros",
+        "image": "./src/imagenes/estrella.jpg"
+    },
+    {
+        "id": 36,
+        "name": "El cazo",
+        "phrase": "El caso que te hago es poco",
+        "image": "./src/imagenes/cazo.jpg"
+    },
+    {
+        "id": 37,
+        "name": "El mundo",
+        "phrase": "Este mundo es una bola, y nosotros un bolón",
+        "image": "./src/imagenes/mundo.jpg"
+    },
+    {
+        "id": 38,
+        "name": "El Apache",
+        "phrase": "¡Ah, Chihuahua! Cuánto apache con pantalón y huarache",
+        "image": "./src/imagenes/apache.jpg"
+    },
+    {
+        "id": 39,
+        "name": "El nopal",
+        "phrase": "Al nopal lo van a ver, nomás cuando tiene tunas",
+        "image": "./src/imagenes/nopal.jpg"
+    },
+    {
+        "id": 40,
+        "name": "El alacrán",
+        "phrase": "El que con la cola pica, le dan una paliza",
+        "image": "./src/imagenes/alacran.jpg"
+    },
+    {
+        "id": 41,
+        "name": "La rosa",
+        "phrase": "Rosita, Rosaura, ven que te quiero ahora",
+        "image": "./src/imagenes/rosa.jpg"
+    },
+    {
+        "id": 42,
+        "name": "La calavera",
+        "phrase": "Al pasar por el panteón, me encontré un calaverón",
+        "image": "./src/imagenes/calavera.jpg"
+    },
+    {
+        "id": 43,
+        "name": "La campana",
+        "phrase": "Tú con la campana y yo con tu hermana",
+        "image": "./src/imagenes/campana.jpg"
+    },
+    {
+        "id": 44,
+        "name": "El cantarito",
+        "phrase": "Tanto va el cántaro al agua, que se quiebra y te moja las enaguas",
+        "image": "./src/imagenes/cantarito.jpg"
+    },
+    {
+        "id": 45,
+        "name": "El venado",
+        "phrase": "Saltando va buscando, pero no ve nada",
+        "image": "./src/imagenes/venado.jpg"
+    },
+    {
+        "id": 46,
+        "name": "El Sol",
+        "phrase": "La cobija de los pobres",
+        "image": "./src/imagenes/sol.jpg"
+    },
+    {
+        "id": 47,
+        "name": "La corona",
+        "phrase": "a El sombrero de los reyes",
+        "image": "./src/imagenes/corona.jpg"
+    },
+    {
+        "id": 48,
+        "name": "La chalupa",
+        "phrase": "Rema que rema Lupita, sentada en su chalupita",
+        "image": "./src/imagenes/chalupa.jpg"
+    },
+    {
+        "id": 49,
+        "name": "El pino",
+        "phrase": "Fresco y oloroso, en todo tiempo hermoso",
+        "image": "./src/imagenes/pino.jpg"
+    },
+    {
+        "id": 50,
+        "name": "El pescado",
+        "phrase": "El que por la boca muere, aunque mudo fuere",
+        "image": "./src/imagenes/pescado.jpg"
+    },
+    {
+        "id": 51,
+        "name": "La palma",
+        "phrase": "Palmero, sube a la palma y bájame un coco real",
+        "image": "./src/imagenes/palma.jpg"
+    },
+    {
+        "id": 52,
+        "name": "La maceta",
+        "phrase": "El que nace pa'maceta, no sale del corredor"
+    },
+    {
+        "id": 53,
+        "name": "El arpa",
+        "phrase": "Arpa vieja de mi suegra, ya no sirves pa'tocar",
+        "image": "./src/imagenes/arpa.jpg"
+    },
+    {
+        "id": 54,
+        "name": "La rana",
+        "phrase": "Al ver a la verde rana, qué brinco pegó tu hermana",
+        "image": "./src/imagenes/rana.jpg"
+    }
+]

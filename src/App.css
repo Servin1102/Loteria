@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #5c8ef1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.cardlote{
+  border: solid 1px black;
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  margin: 1rem;
+  padding: 0.5rem;
+  background: white;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  
+}
+.imglote{
+  padding: .5rem;
+  width: 90%;
+  height: 80%;
+  margin: none;
+}
+
+h3{
+  color: black;
+}
+h6{
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+button{
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
