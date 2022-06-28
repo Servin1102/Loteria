@@ -10,6 +10,10 @@ const Loteria = () => {
     const clic = () =>{
         setcard(random());
     }
+    const reiniciar = () =>{
+      alert("Bienvenido a Loteria by Servin")
+      document.location.reload()
+    }
      
     return (
         <div className="App-header">
@@ -20,6 +24,7 @@ const Loteria = () => {
       </div>
       <div>
         <button onClick={clic}><i className="fa-solid fa-circle-right"></i></button>
+        <button onClick={reiniciar}><i class="fa-solid fa-arrows-rotate"></i></button>
       </div>
       </div>
     );
